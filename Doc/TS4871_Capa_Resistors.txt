@@ -1,0 +1,25 @@
+Hello,
+
+du coup vlà la datasheet du composant.
+
+Je te suggère suivre le schéma de la page 1.
+
+Rin=10k
+Cin=100nF -> donc freq
+
+Rfeed=10k
+Cfeed=1nF
+
+Cbp=1µF -> pas besoin de prendre une capapol
+Cs=1µF
+Rstb=10K
+
+Enjoy!
+
+-- 
+Nicolas Ruty
+Phelma - Grenoble INP
+Responsable BE Electronique 1A
+BE Info Indus Labview 2A PNS/BIOMED
+
+Tel: 04 56 52 91 63
